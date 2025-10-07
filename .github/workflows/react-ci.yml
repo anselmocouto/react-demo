@@ -9,7 +9,7 @@ on:
 
 jobs:
    build:
-       runs-on: ubuntun-lateste
+       runs-on: ubuntun-latest
 
        steps: 
        - name: Checkout do Codigo
